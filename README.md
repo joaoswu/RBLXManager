@@ -68,9 +68,32 @@ The output `RBLXManager.exe` will be in the `./publish` folder.
 └── .github/workflows/release.yml # Automated build & release pipeline
 ```
 
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. **Fork** the repository
+2. **Create a branch** for your feature (`git checkout -b feature/my-feature`)
+3. **Commit** your changes (`git commit -m "Add my feature"`)
+4. **Push** to your branch (`git push origin feature/my-feature`)
+5. **Open a Pull Request** with a clear description of what you changed and why
+
+All accepted contributions will be credited in this section. Please make sure your PR:
+- Describes the change clearly
+- Doesn't break existing functionality
+- Follows the existing code style
+
+### Contributors
+
+Thanks to everyone who has contributed to RBLX Manager! 🎉
+
+<a href="https://github.com/joaoswu/RBLXManager/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=joaoswu/RBLXManager" />
+</a>
+
 ## 📜 License
 
-This project is provided as-is for personal use. Use at your own risk.
+This project is licensed under the [MIT License](LICENSE) — you're free to use, modify, and distribute it.
 
 ---
 
