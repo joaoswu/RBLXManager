@@ -6,7 +6,6 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
-
     <!-- Application metadata -->
     <AssemblyName>RBLXManager</AssemblyName>
     <RootNamespace>RblxManager</RootNamespace>
@@ -15,13 +14,6 @@
     <Authors>joaoswu</Authors>
     <Product>RBLX Manager</Product>
     <Description>A premium multi-account Roblox manager for Windows</Description>
-
-    <!-- Single-file publish settings -->
-    <PublishSingleFile>true</PublishSingleFile>
-    <SelfContained>true</SelfContained>
-    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
-    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
-    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
   </PropertyGroup>
 
   <ItemGroup>
