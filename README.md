@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/joaoswu/RBLXManager/releases/latest"><img src="https://img.shields.io/github/v/release/joaoswu/RBLXManager?style=for-the-badge&color=00C896" alt="Latest Release"/></a>
-  <a href="https://github.com/joaoswu/RBLXManager/releases"><img src="https://img.shields.io/github/downloads/joaoswu/RBLXManager/total?style=for-the-badge&color=0095FF" alt="Downloads"/></a>
+  <a href="https://github.com/joaoswu/RBLXManager/stargazers"><img src="https://img.shields.io/github/stars/joaoswu/RBLXManager?style=for-the-badge&color=0095FF" alt="Stars"/></a>
   <img src="https://img.shields.io/badge/platform-Windows%20x64-blue?style=for-the-badge" alt="Platform"/>
 </p>
 
